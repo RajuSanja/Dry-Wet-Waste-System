@@ -6,6 +6,9 @@ An Arduino-based automated waste segregation system using:
 - Servo Motor
 - Arduino UNO
 ## Project Demo
+## Project Demo Video
+
+▶️ [Click Here to Watch Demo](https://github.com/RajuSanja/Dry-Wet-Waste-System/raw/main/Project_Demo.mp4)
 
 <video width="700" controls>
   <source src="https://raw.githubusercontent.com/RajuSanja/Dry-Wet-Waste-System/main/Project_Demo.mp4" type="video/mp4">
