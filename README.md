@@ -5,8 +5,9 @@ An Arduino-based automated waste segregation system using:
 - Ultrasonic Sensor
 - Servo Motor
 - Arduino UNO
-
-
+<video width="600" controls>
+  <source src="https://raw.githubusercontent.com/RajuSanja/Dry-Wet-Waste-System/main/Project_Demo.mp4" type="video/mp4">
+</video>
 ## Features
 - Detects wet and dry waste
 - Automatic segregation
